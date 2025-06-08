@@ -1,0 +1,2333 @@
+[
+  {
+    "vehicle_id": 4,
+    "timestamp": 1.13,
+    "tipe": "Mobil",
+    "kecepatanperjam": 37.38,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 5,
+    "timestamp": 1.87,
+    "tipe": "Mobil",
+    "kecepatanperjam": 44.18,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 11,
+    "timestamp": 2.27,
+    "tipe": "Mobil",
+    "kecepatanperjam": 40.5,
+    "lajur": 4
+  },
+  {
+    "vehicle_id": 7,
+    "timestamp": 3.23,
+    "tipe": "Mobil",
+    "kecepatanperjam": 37.38,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 2,
+    "timestamp": 3.6,
+    "tipe": "Mobil",
+    "kecepatanperjam": 5.79,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 9,
+    "timestamp": 4.77,
+    "tipe": "Mobil",
+    "kecepatanperjam": 34.71,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 12,
+    "timestamp": 6.37,
+    "tipe": "Mobil",
+    "kecepatanperjam": 34.71,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 20,
+    "timestamp": 7.03,
+    "tipe": "Mobil",
+    "kecepatanperjam": 34.71,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 24,
+    "timestamp": 8.5,
+    "tipe": "Mobil",
+    "kecepatanperjam": 18.0,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 22,
+    "timestamp": 8.9,
+    "tipe": "Mobil",
+    "kecepatanperjam": 37.38,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 15,
+    "timestamp": 8.93,
+    "tipe": "Mobil",
+    "kecepatanperjam": 20.25,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 36,
+    "timestamp": 9.23,
+    "tipe": "Truk",
+    "kecepatanperjam": 28.59,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 26,
+    "timestamp": 10.67,
+    "tipe": "Mobil",
+    "kecepatanperjam": 16.76,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 30,
+    "timestamp": 11.03,
+    "tipe": "Mobil",
+    "kecepatanperjam": 27.0,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 28,
+    "timestamp": 11.87,
+    "tipe": "Mobil",
+    "kecepatanperjam": 30.38,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 47,
+    "timestamp": 12.27,
+    "tipe": "Mobil",
+    "kecepatanperjam": 27.0,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 33,
+    "timestamp": 12.47,
+    "tipe": "Mobil",
+    "kecepatanperjam": 20.25,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 38,
+    "timestamp": 13.4,
+    "tipe": "Mobil",
+    "kecepatanperjam": 30.38,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 52,
+    "timestamp": 14.17,
+    "tipe": "Mobil",
+    "kecepatanperjam": 20.25,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 43,
+    "timestamp": 15.07,
+    "tipe": "Mobil",
+    "kecepatanperjam": 37.38,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 66,
+    "timestamp": 17.53,
+    "tipe": "Truk",
+    "kecepatanperjam": 27.0,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 61,
+    "timestamp": 18.37,
+    "tipe": "Mobil",
+    "kecepatanperjam": 11.3,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 56,
+    "timestamp": 19.5,
+    "tipe": "Mobil",
+    "kecepatanperjam": 27.0,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 64,
+    "timestamp": 19.67,
+    "tipe": "Mobil",
+    "kecepatanperjam": 37.38,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 68,
+    "timestamp": 21.2,
+    "tipe": "Mobil",
+    "kecepatanperjam": 37.38,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 70,
+    "timestamp": 22.03,
+    "tipe": "Mobil",
+    "kecepatanperjam": 44.18,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 60,
+    "timestamp": 22.17,
+    "tipe": "Mobil",
+    "kecepatanperjam": 18.69,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 88,
+    "timestamp": 24.3,
+    "tipe": "Truk",
+    "kecepatanperjam": 37.38,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 71,
+    "timestamp": 24.3,
+    "tipe": "Mobil",
+    "kecepatanperjam": 16.76,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 81,
+    "timestamp": 25.73,
+    "tipe": "Truk",
+    "kecepatanperjam": 22.09,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 78,
+    "timestamp": 26.9,
+    "tipe": "Mobil",
+    "kecepatanperjam": 27.0,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 92,
+    "timestamp": 28.3,
+    "tipe": "Mobil",
+    "kecepatanperjam": 18.0,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 113,
+    "timestamp": 28.93,
+    "tipe": "Mobil",
+    "kecepatanperjam": 37.38,
+    "lajur": 4
+  },
+  {
+    "vehicle_id": 110,
+    "timestamp": 30.23,
+    "tipe": "Truk",
+    "kecepatanperjam": 10.57,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 91,
+    "timestamp": 30.73,
+    "tipe": "Mobil",
+    "kecepatanperjam": 13.89,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 122,
+    "timestamp": 33.57,
+    "tipe": "Mobil",
+    "kecepatanperjam": 37.38,
+    "lajur": 4
+  },
+  {
+    "vehicle_id": 130,
+    "timestamp": 35.47,
+    "tipe": "Mobil",
+    "kecepatanperjam": 44.18,
+    "lajur": 4
+  },
+  {
+    "vehicle_id": 120,
+    "timestamp": 36.0,
+    "tipe": "Mobil",
+    "kecepatanperjam": 9.17,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 131,
+    "timestamp": 37.0,
+    "tipe": "Sepeda Motor",
+    "kecepatanperjam": 11.05,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 87,
+    "timestamp": 37.27,
+    "tipe": "Mobil",
+    "kecepatanperjam": 2.81,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 117,
+    "timestamp": 39.17,
+    "tipe": "Mobil",
+    "kecepatanperjam": 10.34,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 100,
+    "timestamp": 39.43,
+    "tipe": "Mobil",
+    "kecepatanperjam": 10.57,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 142,
+    "timestamp": 40.6,
+    "tipe": "Mobil",
+    "kecepatanperjam": 37.38,
+    "lajur": 4
+  },
+  {
+    "vehicle_id": 111,
+    "timestamp": 41.73,
+    "tipe": "Mobil",
+    "kecepatanperjam": 11.85,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 152,
+    "timestamp": 44.9,
+    "tipe": "Bus",
+    "kecepatanperjam": 11.57,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 160,
+    "timestamp": 45.97,
+    "tipe": "Sepeda Motor",
+    "kecepatanperjam": 11.57,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 167,
+    "timestamp": 46.23,
+    "tipe": "Bus",
+    "kecepatanperjam": 25.58,
+    "lajur": 4
+  },
+  {
+    "vehicle_id": 178,
+    "timestamp": 47.83,
+    "tipe": "Sepeda Motor",
+    "kecepatanperjam": 20.25,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 146,
+    "timestamp": 48.2,
+    "tipe": "Mobil",
+    "kecepatanperjam": 11.05,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 176,
+    "timestamp": 48.93,
+    "tipe": "Mobil",
+    "kecepatanperjam": 10.57,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 189,
+    "timestamp": 49.37,
+    "tipe": "Mobil",
+    "kecepatanperjam": 28.59,
+    "lajur": 4
+  },
+  {
+    "vehicle_id": 148,
+    "timestamp": 51.8,
+    "tipe": "Mobil",
+    "kecepatanperjam": 6.85,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 196,
+    "timestamp": 51.9,
+    "tipe": "Mobil",
+    "kecepatanperjam": 32.4,
+    "lajur": 4
+  },
+  {
+    "vehicle_id": 172,
+    "timestamp": 52.83,
+    "tipe": "Mobil",
+    "kecepatanperjam": 10.12,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 204,
+    "timestamp": 53.7,
+    "tipe": "Mobil",
+    "kecepatanperjam": 28.59,
+    "lajur": 4
+  },
+  {
+    "vehicle_id": 156,
+    "timestamp": 54.67,
+    "tipe": "Mobil",
+    "kecepatanperjam": 4.72,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 190,
+    "timestamp": 54.97,
+    "tipe": "Mobil",
+    "kecepatanperjam": 13.14,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 197,
+    "timestamp": 56.63,
+    "tipe": "Mobil",
+    "kecepatanperjam": 13.89,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 102,
+    "timestamp": 57.8,
+    "tipe": "Mobil",
+    "kecepatanperjam": 5.01,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 200,
+    "timestamp": 58.27,
+    "tipe": "Mobil",
+    "kecepatanperjam": 15.19,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 199,
+    "timestamp": 58.33,
+    "tipe": "Mobil",
+    "kecepatanperjam": 4.15,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 168,
+    "timestamp": 60.23,
+    "tipe": "Mobil",
+    "kecepatanperjam": 14.29,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 138,
+    "timestamp": 60.93,
+    "tipe": "Mobil",
+    "kecepatanperjam": 9.72,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 218,
+    "timestamp": 62.77,
+    "tipe": "Truk",
+    "kecepatanperjam": 15.68,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 149,
+    "timestamp": 63.67,
+    "tipe": "Mobil",
+    "kecepatanperjam": 13.5,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 208,
+    "timestamp": 65.23,
+    "tipe": "Mobil",
+    "kecepatanperjam": 3.08,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 159,
+    "timestamp": 66.13,
+    "tipe": "Mobil",
+    "kecepatanperjam": 12.79,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 240,
+    "timestamp": 66.47,
+    "tipe": "Mobil",
+    "kecepatanperjam": 14.73,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 226,
+    "timestamp": 68.07,
+    "tipe": "Mobil",
+    "kecepatanperjam": 16.2,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 231,
+    "timestamp": 69.1,
+    "tipe": "Mobil",
+    "kecepatanperjam": 14.29,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 234,
+    "timestamp": 69.6,
+    "tipe": "Mobil",
+    "kecepatanperjam": 15.68,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 224,
+    "timestamp": 70.23,
+    "tipe": "Mobil",
+    "kecepatanperjam": 4.54,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 232,
+    "timestamp": 71.2,
+    "tipe": "Mobil",
+    "kecepatanperjam": 14.29,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 235,
+    "timestamp": 71.3,
+    "tipe": "Mobil",
+    "kecepatanperjam": 15.19,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 256,
+    "timestamp": 73.3,
+    "tipe": "Mobil",
+    "kecepatanperjam": 17.36,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 268,
+    "timestamp": 73.53,
+    "tipe": "Bus",
+    "kecepatanperjam": 8.84,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 251,
+    "timestamp": 74.5,
+    "tipe": "Mobil",
+    "kecepatanperjam": 20.25,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 262,
+    "timestamp": 75.1,
+    "tipe": "Mobil",
+    "kecepatanperjam": 17.36,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 253,
+    "timestamp": 75.73,
+    "tipe": "Mobil",
+    "kecepatanperjam": 11.3,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 263,
+    "timestamp": 76.17,
+    "tipe": "Mobil",
+    "kecepatanperjam": 22.09,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 261,
+    "timestamp": 77.9,
+    "tipe": "Mobil",
+    "kecepatanperjam": 12.15,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 266,
+    "timestamp": 80.83,
+    "tipe": "Mobil",
+    "kecepatanperjam": 18.69,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 276,
+    "timestamp": 81.73,
+    "tipe": "Mobil",
+    "kecepatanperjam": 13.89,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 281,
+    "timestamp": 82.1,
+    "tipe": "Mobil",
+    "kecepatanperjam": 17.36,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 285,
+    "timestamp": 83.17,
+    "tipe": "Mobil",
+    "kecepatanperjam": 25.58,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 282,
+    "timestamp": 83.17,
+    "tipe": "Mobil",
+    "kecepatanperjam": 16.2,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 284,
+    "timestamp": 83.8,
+    "tipe": "Mobil",
+    "kecepatanperjam": 12.79,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 291,
+    "timestamp": 84.77,
+    "tipe": "Mobil",
+    "kecepatanperjam": 25.58,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 289,
+    "timestamp": 85.7,
+    "tipe": "Mobil",
+    "kecepatanperjam": 13.89,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 293,
+    "timestamp": 87.47,
+    "tipe": "Mobil",
+    "kecepatanperjam": 16.76,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 297,
+    "timestamp": 88.47,
+    "tipe": "Mobil",
+    "kecepatanperjam": 37.38,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 305,
+    "timestamp": 89.0,
+    "tipe": "Truk",
+    "kecepatanperjam": 21.13,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 316,
+    "timestamp": 89.8,
+    "tipe": "Truk",
+    "kecepatanperjam": 13.89,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 322,
+    "timestamp": 91.6,
+    "tipe": "Truk",
+    "kecepatanperjam": 28.59,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 307,
+    "timestamp": 92.1,
+    "tipe": "Mobil",
+    "kecepatanperjam": 0,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 317,
+    "timestamp": 94.43,
+    "tipe": "Mobil",
+    "kecepatanperjam": 28.59,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 330,
+    "timestamp": 95.67,
+    "tipe": "Mobil",
+    "kecepatanperjam": 44.18,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 325,
+    "timestamp": 96.83,
+    "tipe": "Mobil",
+    "kecepatanperjam": 34.71,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 327,
+    "timestamp": 97.83,
+    "tipe": "Mobil",
+    "kecepatanperjam": 28.59,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 332,
+    "timestamp": 98.67,
+    "tipe": "Mobil",
+    "kecepatanperjam": 40.5,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 335,
+    "timestamp": 99.47,
+    "tipe": "Mobil",
+    "kecepatanperjam": 27.0,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 347,
+    "timestamp": 101.73,
+    "tipe": "Mobil",
+    "kecepatanperjam": 40.5,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 334,
+    "timestamp": 102.9,
+    "tipe": "Mobil",
+    "kecepatanperjam": 13.14,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 346,
+    "timestamp": 103.97,
+    "tipe": "Mobil",
+    "kecepatanperjam": 11.05,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 351,
+    "timestamp": 105.17,
+    "tipe": "Mobil",
+    "kecepatanperjam": 30.38,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 352,
+    "timestamp": 105.67,
+    "tipe": "Mobil",
+    "kecepatanperjam": 27.0,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 350,
+    "timestamp": 105.97,
+    "tipe": "Mobil",
+    "kecepatanperjam": 16.76,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 359,
+    "timestamp": 106.1,
+    "tipe": "Mobil",
+    "kecepatanperjam": 32.4,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 369,
+    "timestamp": 106.87,
+    "tipe": "Mobil",
+    "kecepatanperjam": 30.38,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 360,
+    "timestamp": 107.9,
+    "tipe": "Mobil",
+    "kecepatanperjam": 32.4,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 356,
+    "timestamp": 108.1,
+    "tipe": "Mobil",
+    "kecepatanperjam": 14.29,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 365,
+    "timestamp": 108.97,
+    "tipe": "Mobil",
+    "kecepatanperjam": 30.38,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 375,
+    "timestamp": 109.87,
+    "tipe": "Mobil",
+    "kecepatanperjam": 37.38,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 362,
+    "timestamp": 110.37,
+    "tipe": "Mobil",
+    "kecepatanperjam": 12.79,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 373,
+    "timestamp": 111.07,
+    "tipe": "Mobil",
+    "kecepatanperjam": 28.59,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 387,
+    "timestamp": 111.57,
+    "tipe": "Mobil",
+    "kecepatanperjam": 34.71,
+    "lajur": 4
+  },
+  {
+    "vehicle_id": 370,
+    "timestamp": 112.7,
+    "tipe": "Mobil",
+    "kecepatanperjam": 8.38,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 377,
+    "timestamp": 113.8,
+    "tipe": "Mobil",
+    "kecepatanperjam": 22.09,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 391,
+    "timestamp": 115.03,
+    "tipe": "Truk",
+    "kecepatanperjam": 28.59,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 404,
+    "timestamp": 116.83,
+    "tipe": "Truk",
+    "kecepatanperjam": 28.59,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 406,
+    "timestamp": 117.27,
+    "tipe": "Mobil",
+    "kecepatanperjam": 37.38,
+    "lajur": 4
+  },
+  {
+    "vehicle_id": 401,
+    "timestamp": 118.9,
+    "tipe": "Mobil",
+    "kecepatanperjam": 40.5,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 397,
+    "timestamp": 119.97,
+    "tipe": "Mobil",
+    "kecepatanperjam": 20.25,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 402,
+    "timestamp": 120.8,
+    "tipe": "Mobil",
+    "kecepatanperjam": 30.38,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 400,
+    "timestamp": 121.03,
+    "tipe": "Mobil",
+    "kecepatanperjam": 25.58,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 417,
+    "timestamp": 122.37,
+    "tipe": "Mobil",
+    "kecepatanperjam": 34.71,
+    "lajur": 4
+  },
+  {
+    "vehicle_id": 409,
+    "timestamp": 124.57,
+    "tipe": "Mobil",
+    "kecepatanperjam": 30.38,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 438,
+    "timestamp": 129.23,
+    "tipe": "Truk",
+    "kecepatanperjam": 28.59,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 439,
+    "timestamp": 129.9,
+    "tipe": "Truk",
+    "kecepatanperjam": 22.09,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 436,
+    "timestamp": 130.33,
+    "tipe": "Mobil",
+    "kecepatanperjam": 27.0,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 425,
+    "timestamp": 130.5,
+    "tipe": "Mobil",
+    "kecepatanperjam": 28.59,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 427,
+    "timestamp": 131.47,
+    "tipe": "Mobil",
+    "kecepatanperjam": 32.4,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 433,
+    "timestamp": 132.07,
+    "tipe": "Mobil",
+    "kecepatanperjam": 34.71,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 428,
+    "timestamp": 133.67,
+    "tipe": "Mobil",
+    "kecepatanperjam": 14.73,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 440,
+    "timestamp": 134.77,
+    "tipe": "Mobil",
+    "kecepatanperjam": 24.3,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 444,
+    "timestamp": 136.9,
+    "tipe": "Mobil",
+    "kecepatanperjam": 28.59,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 457,
+    "timestamp": 137.5,
+    "tipe": "Mobil",
+    "kecepatanperjam": 28.59,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 441,
+    "timestamp": 137.57,
+    "tipe": "Mobil",
+    "kecepatanperjam": 11.57,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 451,
+    "timestamp": 138.37,
+    "tipe": "Mobil",
+    "kecepatanperjam": 23.14,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 454,
+    "timestamp": 138.7,
+    "tipe": "Mobil",
+    "kecepatanperjam": 28.59,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 474,
+    "timestamp": 138.87,
+    "tipe": "Truk",
+    "kecepatanperjam": 28.59,
+    "lajur": 4
+  },
+  {
+    "vehicle_id": 460,
+    "timestamp": 139.17,
+    "tipe": "Mobil",
+    "kecepatanperjam": 24.3,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 459,
+    "timestamp": 139.87,
+    "tipe": "Mobil",
+    "kecepatanperjam": 27.0,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 488,
+    "timestamp": 141.1,
+    "tipe": "Mobil",
+    "kecepatanperjam": 32.4,
+    "lajur": 4
+  },
+  {
+    "vehicle_id": 464,
+    "timestamp": 141.27,
+    "tipe": "Mobil",
+    "kecepatanperjam": 24.3,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 480,
+    "timestamp": 142.03,
+    "tipe": "Mobil",
+    "kecepatanperjam": 19.44,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 493,
+    "timestamp": 142.13,
+    "tipe": "Mobil",
+    "kecepatanperjam": 32.4,
+    "lajur": 4
+  },
+  {
+    "vehicle_id": 468,
+    "timestamp": 142.53,
+    "tipe": "Mobil",
+    "kecepatanperjam": 24.3,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 481,
+    "timestamp": 143.27,
+    "tipe": "Mobil",
+    "kecepatanperjam": 16.76,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 469,
+    "timestamp": 143.53,
+    "tipe": "Mobil",
+    "kecepatanperjam": 23.14,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 447,
+    "timestamp": 143.6,
+    "tipe": "Mobil",
+    "kecepatanperjam": 3.38,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 479,
+    "timestamp": 144.33,
+    "tipe": "Mobil",
+    "kecepatanperjam": 24.3,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 476,
+    "timestamp": 145.1,
+    "tipe": "Mobil",
+    "kecepatanperjam": 25.58,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 491,
+    "timestamp": 147.3,
+    "tipe": "Mobil",
+    "kecepatanperjam": 23.14,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 519,
+    "timestamp": 148.07,
+    "tipe": "Mobil",
+    "kecepatanperjam": 37.38,
+    "lajur": 4
+  },
+  {
+    "vehicle_id": 509,
+    "timestamp": 149.6,
+    "tipe": "Truk",
+    "kecepatanperjam": 21.13,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 456,
+    "timestamp": 149.63,
+    "tipe": "Mobil",
+    "kecepatanperjam": 3.5,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 463,
+    "timestamp": 152.5,
+    "tipe": "Mobil",
+    "kecepatanperjam": 4.63,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 514,
+    "timestamp": 153.6,
+    "tipe": "Mobil",
+    "kecepatanperjam": 25.58,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 537,
+    "timestamp": 154.87,
+    "tipe": "Mobil",
+    "kecepatanperjam": 24.3,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 527,
+    "timestamp": 155.27,
+    "tipe": "Mobil",
+    "kecepatanperjam": 27.0,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 520,
+    "timestamp": 155.27,
+    "tipe": "Mobil",
+    "kecepatanperjam": 24.3,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 466,
+    "timestamp": 156.3,
+    "tipe": "Mobil",
+    "kecepatanperjam": 5.93,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 541,
+    "timestamp": 157.0,
+    "tipe": "Truk",
+    "kecepatanperjam": 25.58,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 530,
+    "timestamp": 158.0,
+    "tipe": "Mobil",
+    "kecepatanperjam": 27.0,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 552,
+    "timestamp": 158.2,
+    "tipe": "Mobil",
+    "kecepatanperjam": 37.38,
+    "lajur": 4
+  },
+  {
+    "vehicle_id": 545,
+    "timestamp": 158.47,
+    "tipe": "Sepeda Motor",
+    "kecepatanperjam": 32.4,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 533,
+    "timestamp": 159.43,
+    "tipe": "Mobil",
+    "kecepatanperjam": 22.09,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 534,
+    "timestamp": 160.0,
+    "tipe": "Mobil",
+    "kecepatanperjam": 24.3,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 566,
+    "timestamp": 160.63,
+    "tipe": "Mobil",
+    "kecepatanperjam": 40.5,
+    "lajur": 4
+  },
+  {
+    "vehicle_id": 551,
+    "timestamp": 161.1,
+    "tipe": "Mobil",
+    "kecepatanperjam": 30.38,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 478,
+    "timestamp": 161.37,
+    "tipe": "Mobil",
+    "kecepatanperjam": 3.31,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 544,
+    "timestamp": 162.3,
+    "tipe": "Mobil",
+    "kecepatanperjam": 24.3,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 578,
+    "timestamp": 163.77,
+    "tipe": "Mobil",
+    "kecepatanperjam": 32.4,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 553,
+    "timestamp": 163.9,
+    "tipe": "Mobil",
+    "kecepatanperjam": 20.25,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 495,
+    "timestamp": 164.17,
+    "tipe": "Mobil",
+    "kecepatanperjam": 4.05,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 550,
+    "timestamp": 166.37,
+    "tipe": "Mobil",
+    "kecepatanperjam": 16.76,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 575,
+    "timestamp": 166.4,
+    "tipe": "Mobil",
+    "kecepatanperjam": 28.59,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 574,
+    "timestamp": 167.77,
+    "tipe": "Mobil",
+    "kecepatanperjam": 16.2,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 505,
+    "timestamp": 167.87,
+    "tipe": "Mobil",
+    "kecepatanperjam": 8.1,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 588,
+    "timestamp": 169.07,
+    "tipe": "Mobil",
+    "kecepatanperjam": 27.0,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 579,
+    "timestamp": 169.4,
+    "tipe": "Mobil",
+    "kecepatanperjam": 12.15,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 613,
+    "timestamp": 169.63,
+    "tipe": "Mobil",
+    "kecepatanperjam": 44.18,
+    "lajur": 4
+  },
+  {
+    "vehicle_id": 592,
+    "timestamp": 170.23,
+    "tipe": "Mobil",
+    "kecepatanperjam": 27.0,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 511,
+    "timestamp": 171.2,
+    "tipe": "Mobil",
+    "kecepatanperjam": 5.4,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 610,
+    "timestamp": 172.43,
+    "tipe": "Mobil",
+    "kecepatanperjam": 10.12,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 600,
+    "timestamp": 172.47,
+    "tipe": "Mobil",
+    "kecepatanperjam": 20.25,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 510,
+    "timestamp": 173.5,
+    "tipe": "Mobil",
+    "kecepatanperjam": 6.94,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 593,
+    "timestamp": 176.07,
+    "tipe": "Mobil",
+    "kecepatanperjam": 5.46,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 591,
+    "timestamp": 176.63,
+    "tipe": "Truk",
+    "kecepatanperjam": 9.17,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 618,
+    "timestamp": 177.2,
+    "tipe": "Mobil",
+    "kecepatanperjam": 20.25,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 625,
+    "timestamp": 179.5,
+    "tipe": "Mobil",
+    "kecepatanperjam": 18.69,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 601,
+    "timestamp": 179.63,
+    "tipe": "Truk",
+    "kecepatanperjam": 10.8,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 647,
+    "timestamp": 180.33,
+    "tipe": "Mobil",
+    "kecepatanperjam": 37.38,
+    "lajur": 4
+  },
+  {
+    "vehicle_id": 608,
+    "timestamp": 182.2,
+    "tipe": "Mobil",
+    "kecepatanperjam": 10.34,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 612,
+    "timestamp": 182.93,
+    "tipe": "Mobil",
+    "kecepatanperjam": 3.33,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 615,
+    "timestamp": 184.93,
+    "tipe": "Mobil",
+    "kecepatanperjam": 10.12,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 646,
+    "timestamp": 185.1,
+    "tipe": "Mobil",
+    "kecepatanperjam": 22.09,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 587,
+    "timestamp": 186.93,
+    "tipe": "Mobil",
+    "kecepatanperjam": 11.3,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 619,
+    "timestamp": 187.57,
+    "tipe": "Mobil",
+    "kecepatanperjam": 3.52,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 661,
+    "timestamp": 188.23,
+    "tipe": "Mobil",
+    "kecepatanperjam": 10.8,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 670,
+    "timestamp": 188.83,
+    "tipe": "Mobil",
+    "kecepatanperjam": 27.0,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 686,
+    "timestamp": 190.4,
+    "tipe": "Mobil",
+    "kecepatanperjam": 32.4,
+    "lajur": 4
+  },
+  {
+    "vehicle_id": 650,
+    "timestamp": 190.83,
+    "tipe": "Mobil",
+    "kecepatanperjam": 3.65,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 674,
+    "timestamp": 190.97,
+    "tipe": "Mobil",
+    "kecepatanperjam": 28.59,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 654,
+    "timestamp": 192.8,
+    "tipe": "Mobil",
+    "kecepatanperjam": 5.79,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 631,
+    "timestamp": 193.2,
+    "tipe": "Mobil",
+    "kecepatanperjam": 5.06,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 699,
+    "timestamp": 194.67,
+    "tipe": "Truk",
+    "kecepatanperjam": 24.3,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 703,
+    "timestamp": 195.27,
+    "tipe": "Mobil",
+    "kecepatanperjam": 34.71,
+    "lajur": 4
+  },
+  {
+    "vehicle_id": 700,
+    "timestamp": 196.37,
+    "tipe": "Mobil",
+    "kecepatanperjam": 23.14,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 639,
+    "timestamp": 196.77,
+    "tipe": "Mobil",
+    "kecepatanperjam": 8.1,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 717,
+    "timestamp": 197.1,
+    "tipe": "Truk",
+    "kecepatanperjam": 34.71,
+    "lajur": 4
+  },
+  {
+    "vehicle_id": 702,
+    "timestamp": 197.57,
+    "tipe": "Mobil",
+    "kecepatanperjam": 25.58,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 722,
+    "timestamp": 198.43,
+    "tipe": "Mobil",
+    "kecepatanperjam": 40.5,
+    "lajur": 4
+  },
+  {
+    "vehicle_id": 653,
+    "timestamp": 198.77,
+    "tipe": "Mobil",
+    "kecepatanperjam": 10.34,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 710,
+    "timestamp": 199.47,
+    "tipe": "Mobil",
+    "kecepatanperjam": 24.3,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 641,
+    "timestamp": 199.5,
+    "tipe": "Mobil",
+    "kecepatanperjam": 2.78,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 675,
+    "timestamp": 200.53,
+    "tipe": "Mobil",
+    "kecepatanperjam": 11.85,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 713,
+    "timestamp": 200.7,
+    "tipe": "Mobil",
+    "kecepatanperjam": 25.58,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 696,
+    "timestamp": 202.8,
+    "tipe": "Mobil",
+    "kecepatanperjam": 13.14,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 668,
+    "timestamp": 203.83,
+    "tipe": "Mobil",
+    "kecepatanperjam": 3.52,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 734,
+    "timestamp": 205.5,
+    "tipe": "Mobil",
+    "kecepatanperjam": 25.58,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 732,
+    "timestamp": 205.5,
+    "tipe": "Mobil",
+    "kecepatanperjam": 13.5,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 738,
+    "timestamp": 206.73,
+    "tipe": "Mobil",
+    "kecepatanperjam": 8.24,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 743,
+    "timestamp": 207.07,
+    "tipe": "Mobil",
+    "kecepatanperjam": 24.3,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 736,
+    "timestamp": 208.1,
+    "tipe": "Mobil",
+    "kecepatanperjam": 15.68,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 669,
+    "timestamp": 209.33,
+    "tipe": "Mobil",
+    "kecepatanperjam": 8.53,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 771,
+    "timestamp": 209.73,
+    "tipe": "Truk",
+    "kecepatanperjam": 24.3,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 678,
+    "timestamp": 209.8,
+    "tipe": "Mobil",
+    "kecepatanperjam": 17.36,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 783,
+    "timestamp": 211.27,
+    "tipe": "Mobil",
+    "kecepatanperjam": 37.38,
+    "lajur": 4
+  },
+  {
+    "vehicle_id": 777,
+    "timestamp": 211.5,
+    "tipe": "Truk",
+    "kecepatanperjam": 24.3,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 769,
+    "timestamp": 211.8,
+    "tipe": "Mobil",
+    "kecepatanperjam": 20.25,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 792,
+    "timestamp": 213.13,
+    "tipe": "Mobil",
+    "kecepatanperjam": 37.38,
+    "lajur": 4
+  },
+  {
+    "vehicle_id": 772,
+    "timestamp": 213.47,
+    "tipe": "Truk",
+    "kecepatanperjam": 25.58,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 755,
+    "timestamp": 214.17,
+    "tipe": "Mobil",
+    "kecepatanperjam": 22.09,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 776,
+    "timestamp": 214.63,
+    "tipe": "Mobil",
+    "kecepatanperjam": 25.58,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 761,
+    "timestamp": 215.67,
+    "tipe": "Mobil",
+    "kecepatanperjam": 21.13,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 802,
+    "timestamp": 215.87,
+    "tipe": "Mobil",
+    "kecepatanperjam": 24.3,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 785,
+    "timestamp": 217.4,
+    "tipe": "Mobil",
+    "kecepatanperjam": 22.09,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 676,
+    "timestamp": 218.13,
+    "tipe": "Mobil",
+    "kecepatanperjam": 1.93,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 787,
+    "timestamp": 218.83,
+    "tipe": "Mobil",
+    "kecepatanperjam": 23.14,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 819,
+    "timestamp": 219.87,
+    "tipe": "Mobil",
+    "kecepatanperjam": 34.71,
+    "lajur": 4
+  },
+  {
+    "vehicle_id": 811,
+    "timestamp": 221.6,
+    "tipe": "Truk",
+    "kecepatanperjam": 5.65,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 797,
+    "timestamp": 222.03,
+    "tipe": "Mobil",
+    "kecepatanperjam": 6.31,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 764,
+    "timestamp": 223.9,
+    "tipe": "Truk",
+    "kecepatanperjam": 9.35,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 804,
+    "timestamp": 224.8,
+    "tipe": "Mobil",
+    "kecepatanperjam": 21.13,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 820,
+    "timestamp": 225.53,
+    "tipe": "Mobil",
+    "kecepatanperjam": 34.71,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 767,
+    "timestamp": 226.8,
+    "tipe": "Mobil",
+    "kecepatanperjam": 9.17,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 843,
+    "timestamp": 228.17,
+    "tipe": "Truk",
+    "kecepatanperjam": 40.5,
+    "lajur": 4
+  },
+  {
+    "vehicle_id": 773,
+    "timestamp": 229.03,
+    "tipe": "Mobil",
+    "kecepatanperjam": 9.0,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 825,
+    "timestamp": 229.23,
+    "tipe": "Mobil",
+    "kecepatanperjam": 22.09,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 778,
+    "timestamp": 231.5,
+    "tipe": "Mobil",
+    "kecepatanperjam": 7.84,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 799,
+    "timestamp": 233.5,
+    "tipe": "Mobil",
+    "kecepatanperjam": 8.68,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 846,
+    "timestamp": 234.83,
+    "tipe": "Mobil",
+    "kecepatanperjam": 48.6,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 832,
+    "timestamp": 236.53,
+    "tipe": "Mobil",
+    "kecepatanperjam": 14.29,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 848,
+    "timestamp": 237.63,
+    "tipe": "Mobil",
+    "kecepatanperjam": 21.13,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 852,
+    "timestamp": 239.53,
+    "tipe": "Mobil",
+    "kecepatanperjam": 37.38,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 841,
+    "timestamp": 239.63,
+    "tipe": "Mobil",
+    "kecepatanperjam": 11.85,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 857,
+    "timestamp": 241.83,
+    "tipe": "Mobil",
+    "kecepatanperjam": 44.18,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 858,
+    "timestamp": 242.43,
+    "tipe": "Mobil",
+    "kecepatanperjam": 40.5,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 869,
+    "timestamp": 243.2,
+    "tipe": "Bus",
+    "kecepatanperjam": 30.38,
+    "lajur": 4
+  },
+  {
+    "vehicle_id": 856,
+    "timestamp": 244.37,
+    "tipe": "Mobil",
+    "kecepatanperjam": 30.38,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 863,
+    "timestamp": 245.73,
+    "tipe": "Mobil",
+    "kecepatanperjam": 25.58,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 875,
+    "timestamp": 245.87,
+    "tipe": "Mobil",
+    "kecepatanperjam": 32.4,
+    "lajur": 4
+  },
+  {
+    "vehicle_id": 871,
+    "timestamp": 247.3,
+    "tipe": "Mobil",
+    "kecepatanperjam": 44.18,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 885,
+    "timestamp": 248.03,
+    "tipe": "Mobil",
+    "kecepatanperjam": 37.38,
+    "lajur": 4
+  },
+  {
+    "vehicle_id": 860,
+    "timestamp": 248.23,
+    "tipe": "Mobil",
+    "kecepatanperjam": 2.22,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 873,
+    "timestamp": 250.17,
+    "tipe": "Mobil",
+    "kecepatanperjam": 28.59,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 881,
+    "timestamp": 251.5,
+    "tipe": "Mobil",
+    "kecepatanperjam": 32.4,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 876,
+    "timestamp": 252.13,
+    "tipe": "Mobil",
+    "kecepatanperjam": 24.3,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 892,
+    "timestamp": 253.13,
+    "tipe": "Mobil",
+    "kecepatanperjam": 32.4,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 879,
+    "timestamp": 253.17,
+    "tipe": "Mobil",
+    "kecepatanperjam": 25.58,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 911,
+    "timestamp": 254.6,
+    "tipe": "Mobil",
+    "kecepatanperjam": 40.5,
+    "lajur": 4
+  },
+  {
+    "vehicle_id": 896,
+    "timestamp": 254.67,
+    "tipe": "Mobil",
+    "kecepatanperjam": 30.38,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 889,
+    "timestamp": 254.93,
+    "tipe": "Mobil",
+    "kecepatanperjam": 24.3,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 861,
+    "timestamp": 256.3,
+    "tipe": "Mobil",
+    "kecepatanperjam": 2.43,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 923,
+    "timestamp": 256.8,
+    "tipe": "Truk",
+    "kecepatanperjam": 30.38,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 924,
+    "timestamp": 258.2,
+    "tipe": "Truk",
+    "kecepatanperjam": 28.59,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 906,
+    "timestamp": 258.9,
+    "tipe": "Mobil",
+    "kecepatanperjam": 30.38,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 932,
+    "timestamp": 260.9,
+    "tipe": "Mobil",
+    "kecepatanperjam": 34.71,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 926,
+    "timestamp": 262.27,
+    "tipe": "Mobil",
+    "kecepatanperjam": 32.4,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 920,
+    "timestamp": 262.87,
+    "tipe": "Mobil",
+    "kecepatanperjam": 18.0,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 934,
+    "timestamp": 263.87,
+    "tipe": "Mobil",
+    "kecepatanperjam": 28.59,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 946,
+    "timestamp": 264.03,
+    "tipe": "Mobil",
+    "kecepatanperjam": 37.38,
+    "lajur": 4
+  },
+  {
+    "vehicle_id": 930,
+    "timestamp": 264.43,
+    "tipe": "Mobil",
+    "kecepatanperjam": 32.4,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 939,
+    "timestamp": 265.17,
+    "tipe": "Mobil",
+    "kecepatanperjam": 32.4,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 927,
+    "timestamp": 265.67,
+    "tipe": "Mobil",
+    "kecepatanperjam": 9.35,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 962,
+    "timestamp": 266.47,
+    "tipe": "Truk",
+    "kecepatanperjam": 30.38,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 937,
+    "timestamp": 266.97,
+    "tipe": "Mobil",
+    "kecepatanperjam": 30.38,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 943,
+    "timestamp": 268.57,
+    "tipe": "Mobil",
+    "kecepatanperjam": 28.59,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 938,
+    "timestamp": 269.03,
+    "tipe": "Mobil",
+    "kecepatanperjam": 14.73,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 981,
+    "timestamp": 271.27,
+    "tipe": "Truk",
+    "kecepatanperjam": 28.59,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 966,
+    "timestamp": 272.43,
+    "tipe": "Mobil",
+    "kecepatanperjam": 28.59,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 974,
+    "timestamp": 273.47,
+    "tipe": "Mobil",
+    "kecepatanperjam": 44.18,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 963,
+    "timestamp": 274.37,
+    "tipe": "Mobil",
+    "kecepatanperjam": 15.68,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 982,
+    "timestamp": 274.4,
+    "tipe": "Truk",
+    "kecepatanperjam": 28.59,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 995,
+    "timestamp": 275.47,
+    "tipe": "Truk",
+    "kecepatanperjam": 28.59,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 1006,
+    "timestamp": 278.4,
+    "tipe": "Mobil",
+    "kecepatanperjam": 28.59,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 991,
+    "timestamp": 279.27,
+    "tipe": "Mobil",
+    "kecepatanperjam": 16.76,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 997,
+    "timestamp": 279.33,
+    "tipe": "Mobil",
+    "kecepatanperjam": 30.38,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 1004,
+    "timestamp": 280.47,
+    "tipe": "Mobil",
+    "kecepatanperjam": 24.3,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 993,
+    "timestamp": 281.1,
+    "tipe": "Mobil",
+    "kecepatanperjam": 15.19,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 1003,
+    "timestamp": 281.63,
+    "tipe": "Mobil",
+    "kecepatanperjam": 25.58,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 1012,
+    "timestamp": 282.03,
+    "tipe": "Mobil",
+    "kecepatanperjam": 32.4,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 999,
+    "timestamp": 282.87,
+    "tipe": "Mobil",
+    "kecepatanperjam": 14.73,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 1014,
+    "timestamp": 283.03,
+    "tipe": "Mobil",
+    "kecepatanperjam": 30.38,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 1030,
+    "timestamp": 283.2,
+    "tipe": "Mobil",
+    "kecepatanperjam": 28.59,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 1022,
+    "timestamp": 283.2,
+    "tipe": "Mobil",
+    "kecepatanperjam": 81.0,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 1007,
+    "timestamp": 284.43,
+    "tipe": "Mobil",
+    "kecepatanperjam": 27.0,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 1026,
+    "timestamp": 285.03,
+    "tipe": "Mobil",
+    "kecepatanperjam": 32.4,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 1008,
+    "timestamp": 285.27,
+    "tipe": "Mobil",
+    "kecepatanperjam": 14.29,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 1028,
+    "timestamp": 286.87,
+    "tipe": "Mobil",
+    "kecepatanperjam": 30.38,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 1017,
+    "timestamp": 287.17,
+    "tipe": "Mobil",
+    "kecepatanperjam": 13.14,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 1033,
+    "timestamp": 288.13,
+    "tipe": "Mobil",
+    "kecepatanperjam": 28.59,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 1036,
+    "timestamp": 288.33,
+    "tipe": "Mobil",
+    "kecepatanperjam": 30.38,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 1025,
+    "timestamp": 288.87,
+    "tipe": "Mobil",
+    "kecepatanperjam": 14.73,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 1034,
+    "timestamp": 290.97,
+    "tipe": "Mobil",
+    "kecepatanperjam": 13.89,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 1064,
+    "timestamp": 292.97,
+    "tipe": "Mobil",
+    "kecepatanperjam": 30.38,
+    "lajur": 4
+  },
+  {
+    "vehicle_id": 1066,
+    "timestamp": 293.0,
+    "tipe": "Truk",
+    "kecepatanperjam": 40.5,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 1053,
+    "timestamp": 293.4,
+    "tipe": "Mobil",
+    "kecepatanperjam": 25.58,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 1045,
+    "timestamp": 294.43,
+    "tipe": "Mobil",
+    "kecepatanperjam": 8.53,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 1065,
+    "timestamp": 295.47,
+    "tipe": "Mobil",
+    "kecepatanperjam": 32.4,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 1058,
+    "timestamp": 296.73,
+    "tipe": "Mobil",
+    "kecepatanperjam": 28.59,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 1067,
+    "timestamp": 298.13,
+    "tipe": "Mobil",
+    "kecepatanperjam": 24.3,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 1068,
+    "timestamp": 300.0,
+    "tipe": "Mobil",
+    "kecepatanperjam": 24.3,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 1070,
+    "timestamp": 300.33,
+    "tipe": "Mobil",
+    "kecepatanperjam": 21.13,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 1069,
+    "timestamp": 300.73,
+    "tipe": "Mobil",
+    "kecepatanperjam": 15.68,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 1074,
+    "timestamp": 301.23,
+    "tipe": "Mobil",
+    "kecepatanperjam": 27.0,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 1100,
+    "timestamp": 302.27,
+    "tipe": "Mobil",
+    "kecepatanperjam": 44.18,
+    "lajur": 4
+  },
+  {
+    "vehicle_id": 1107,
+    "timestamp": 304.57,
+    "tipe": "Bus",
+    "kecepatanperjam": 16.76,
+    "lajur": 2
+  },
+  {
+    "vehicle_id": 1094,
+    "timestamp": 305.3,
+    "tipe": "Mobil",
+    "kecepatanperjam": 12.46,
+    "lajur": 3
+  },
+  {
+    "vehicle_id": 1091,
+    "timestamp": 306.03,
+    "tipe": "Mobil",
+    "kecepatanperjam": 27.0,
+    "lajur": 1
+  },
+  {
+    "vehicle_id": 1078,
+    "timestamp": 306.07,
+    "tipe": "Mobil",
+    "kecepatanperjam": 13.14,
+    "lajur": 2
+  }
+]

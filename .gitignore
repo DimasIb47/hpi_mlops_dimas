@@ -1,0 +1,15 @@
+# Folder Virtual Environment
+venv/
+
+# File cache Python
+__pycache__/
+
+# File Model (.pt)
+*.pt
+
+# File Video (.mp4)
+*.mp4
+
+# File spesifik OS (bonus)
+.DS_Store
+Thumbs.db
