@@ -4,6 +4,13 @@ Proyek ini dibuat untuk pendaftaran magang sebagai MLops di **Human Plus Institu
 
 ---
 
+## Output Sistem
+
+![Screenshot Model](./Screenshot_Model.png)
+
+🔗 [Klik di sini untuk melihat video output](https://youtu.be/BRKZh2Jqeo4)
+---
+
 ## Pengenalan
 Sistem ini bertujuan untuk mendeteksi, menghitung, dan menganalisis kendaraan pada video lalu lintas secara otomatis. Dengan memanfaatkan model YOLOv8 dan algoritma tracking SORT, sistem ini mampu melakukan klasifikasi jenis kendaraan, menghitung jumlah kendaraan yang melintas, estimasi kecepatan, serta rekap per lajur.
 
